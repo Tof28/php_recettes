@@ -18,7 +18,7 @@
 
 <?php include_once('header.php'); ?>
     <h1>Site de recettes</h1>
-
+        <a href="Bonjour.php?nom=Dupont&amp;prenom=Jean">Dis-moi bonjour !</a>
     <?php
         include_once('variables.php');
         include_once('functions.php');
